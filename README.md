@@ -7,4 +7,4 @@
   <br/><br/>
 
 
-<img src="https://herokuapp.com" alt="Typing Text">
+
