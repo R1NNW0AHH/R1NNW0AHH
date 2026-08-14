@@ -6,3 +6,4 @@
   
   <br/><br/>
 
+![Animated Text](cursive-text.svg)
