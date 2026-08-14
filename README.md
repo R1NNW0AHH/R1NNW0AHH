@@ -7,3 +7,4 @@
   <br/><br/>
 
 
+[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
